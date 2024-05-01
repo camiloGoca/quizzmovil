@@ -13,11 +13,11 @@
         <br>
         <strong><a href="/producto ">Ir a productos</a></strong>
         <br>
-        <strong><a href="/pais">Ir a prueba </a></strong>
+        <strong><a href="/pais">Ir al Pais </a></strong>
         <br>
         <strong><a href="/departamento">Ir a Departamento</a></strong>
         <br>
-        <strong><a href="/ciudad">Ir a Ciudad</a></strong>
+        <strong><a href="/ciudad">Ir a la Ciudad</a></strong>
         
       </div>
 
