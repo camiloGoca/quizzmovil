@@ -1,5 +1,8 @@
 <template>
   <ion-list>
+    <ion-item>
+      <ion-input label="Id" placeholder="Digite el id"></ion-input>
+    </ion-item>
  <ion-item>
       <ion-input label="Codigo Dane" placeholder="Digite su codigo dane"></ion-input>
     </ion-item>
